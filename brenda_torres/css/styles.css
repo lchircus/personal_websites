@@ -7,11 +7,11 @@ html,body {
 h1 {
   font-family: 'Antic Slab', serif;
   font-size:80px;
-  color:#DCDCDC;
+  color:#D9EEEE;
 }
 
 .lead {
-	color:#DCDCDC;
+	color:#D9EEEE;
   padding-left: 15px;
   padding-right: 15px;
 }
@@ -37,6 +37,6 @@ h1 {
 }
   
 .btn-custom {
-  color:#DCDCDC;
-  background-color:#008B8B;
+  color:#4DAEAE;
+  background-color:#F5F5F5;
 }
